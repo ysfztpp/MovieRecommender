@@ -15,7 +15,7 @@ This project's core is a vector search engine that pre-calculates and indexes al
 ***
 
 ###  Demo
-https://ibb.co/mF2mFqCm
+`![Cinematch AI Demo GIF](https://ibb.co/mF2mFqCm)`
 
 ---
 
