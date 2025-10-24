@@ -1,2 +1,2 @@
 # MovieRecommender
-güncelleme 1
+güncelleme 2
