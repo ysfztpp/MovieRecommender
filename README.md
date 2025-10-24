@@ -15,10 +15,7 @@ This project's core is a vector search engine that pre-calculates and indexes al
 ***
 
 ###  Demo
-
-*(Highly recommended: Record a short GIF of your Streamlit app in action and place it here. This is the single best way to get a recruiter's attention.)*
-
-`![Cinematch AI Demo GIF](link_to_your_demo.gif)`
+https://ibb.co/mF2mFqCm
 
 ---
 
