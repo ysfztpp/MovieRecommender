@@ -18,7 +18,7 @@ This project's core is a vector search engine that pre-calculates and indexes al
 
 A live demonstration of the app searching 27,000+ films instantly using FAISS.
 
-![Cinematch AI Demo GIF](https://i.ibb.co/gFfGFTMG/ezgif-com-video-to-gif-converter.gif)
+![Cinematch AI Demo GIF](https://i.ibb.co/k6wp68gp/ezgif-com-video-to-gif-converter.gif)
 
 ---
 
@@ -106,4 +106,4 @@ You will need Python 3.9+, the MovieLens 20M dataset, and a TMDB API key.
 
 ## ⚖️ License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
