@@ -18,8 +18,7 @@ This project's core is a vector search engine that pre-calculates and indexes al
 
 A live demonstration of the app searching 27,000+ films instantly using FAISS.
 
-![Cinematch AI Demo GIF](https://i.ibb.co/k6wp68gp/ezgif-com-video-to-gif-converter.gif)
-
+![Cinematch AI Demo GIF](https://i.makeagif.com/media/10-24-2025/o1dYy0.gif)
 ---
 
 ## 🚀 The Core Challenge: Why FAISS?
